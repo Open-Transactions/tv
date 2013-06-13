@@ -11,3 +11,5 @@ Bitcoin 1NtTPVVjDsUfDWybS4BwvHpG2pdS9RnYyQ
 <a href="https://github.com/FellowTraveler/Open-Transactions/wiki/Smart-contracts">Smart Contracts article</a> 
 
 (See the 'Two-Way Trade' smart contract, below 8-10, before watching these new 'Escrow' videos.)
+
+
