@@ -8,5 +8,3 @@ categories: smart contracts
 {% video_me http://ft.vm.to/files/videos/ot_13_640.mp4 640 480  %}
 Bitcoin 1NtTPVVjDsUfDWybS4BwvHpG2pdS9RnYyQ
 
-testes, testes, 1 2 3
- 
