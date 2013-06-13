@@ -9,8 +9,8 @@
   <meta name="author" content="Fellow Traveler">
 
   
-  <meta name="description" content="&lt;!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --&gt;
-&lt;source type="video/mp4" src="http://ft.vm.to/files/videos/ &hellip;">
+  <meta name="description" content=" // using jQuery
+jQuery('video,audio').mediaelementplayer(/* Options */); ">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -99,24 +99,41 @@
 
 <div class="entry-content"><p><video width="640" height="480" poster="poster.jpg" controls="controls" preload="none"></p>
 
-<pre><code>&lt;!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --&gt;
-&lt;source type="video/mp4" src="http://ft.vm.to/files/videos/ot_5_640.mp4" /&gt;
-&lt;!-- WebM/VP8 for Firefox4, Opera, and Chrome --&gt;
-&lt;source type="video/webm" src="http://ft.vm.to/files/videos/ot_5_640.mp4" /&gt;
-&lt;!-- Ogg/Vorbis for older Firefox and Opera versions --&gt;
-&lt;source type="video/ogg" src="http://ft.vm.to/files/videos/ot_5_640.mp4" /&gt;
-&lt;!-- Optional: Add subtitles for each language --&gt;
-&lt;track kind="subtitles" src="subtitles.srt" srclang="en" /&gt;
-&lt;!-- Optional: Add chapters --&gt;
-&lt;track kind="chapters" src="chapters.srt" srclang="en" /&gt;
-&lt;!-- Flash fallback for non-HTML5 browsers without JavaScript --&gt;
-&lt;object width="640" height="480" type="application/x-shockwave-flash" data="flashmediaelement.swf"&gt;
-    &lt;param name="movie" value="flashmediaelement.swf" /&gt;
-    &lt;param name="flashvars" value="controls=true&amp;file=http://ft.vm.to/files/videos/ot_5_640.mp4" /&gt;
-    &lt;!-- Image as a last resort --&gt;
-    &lt;img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" /&gt;
-&lt;/object&gt;
-</code></pre>
+<!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 -->
+
+
+<p><source type="video/mp4" src="http://ft.vm.to/files/videos/ot_5_640.mp4" /></p>
+
+<!-- WebM/VP8 for Firefox4, Opera, and Chrome -->
+
+
+<p><source type="video/webm" src="http://ft.vm.to/files/videos/ot_5_640.mp4" /></p>
+
+<!-- Ogg/Vorbis for older Firefox and Opera versions -->
+
+
+<p><source type="video/ogg" src="http://ft.vm.to/files/videos/ot_5_640.mp4" /></p>
+
+<!-- Optional: Add subtitles for each language -->
+
+
+<p><track kind="subtitles" src="subtitles.srt" srclang="en" /></p>
+
+<!-- Optional: Add chapters -->
+
+
+<p><track kind="chapters" src="chapters.srt" srclang="en" /></p>
+
+<!-- Flash fallback for non-HTML5 browsers without JavaScript -->
+
+
+<object width="640" height="480" type="application/x-shockwave-flash" data="flashmediaelement.swf">
+<param name="movie" value="flashmediaelement.swf" />
+<param name="flashvars" value="controls=true&file=http://ft.vm.to/files/videos/ot_5_640.mp4" />
+<!-- Image as a last resort -->
+<img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" />
+</object>
+
 
 <p></video></p>
 
