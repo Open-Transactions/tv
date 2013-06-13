@@ -5,4 +5,4 @@ date: 2012-07-22 02:25
 comments: true
 categories: opentxs, ChaiScript
 ---
-{% video_me http://ft.vm.to/files/videos/ot_4_streaming.mp4 640 480  %}
+{% video_me http://ft.vm.to/files/videos/ot_4_640.mp4 640 480  %}
