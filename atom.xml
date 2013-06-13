@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Open Transactions TV]]></title>
+  <link href="http://Open-Transactions.github.io/tv/atom.xml" rel="self"/>
+  <link href="http://Open-Transactions.github.io/tv/"/>
+  <updated>2013-06-13T11:56:43-05:00</updated>
+  <id>http://Open-Transactions.github.io/tv/</id>
+  <author>
+    <name><![CDATA[Fellow Traveler]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Open-Transactions #13: ESCROW Smart Contract (3 of 3)]]></title>
+    <link href="http://Open-Transactions.github.io/tv/blog/2012/07/26/open-transactions-number-13-escrow-smart-contract/"/>
+    <updated>2012-07-26T23:33:00-05:00</updated>
+    <id>http://Open-Transactions.github.io/tv/blog/2012/07/26/open-transactions-number-13-escrow-smart-contract</id>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_13_640.mp4' width='640' height='480'></video></p>
+
+<script>
+// using jQuery
+jQuery('video,audio').mediaelementplayer(/* Options */);
+</script>
+
+
+<p><a href="http://ft.vm.to/files/videos/ot_13_640.mp4">Download</a></p>
+
+
+<p>Bitcoin 1NtTPVVjDsUfDWybS4BwvHpG2pdS9RnYyQ</p>
+
+<p>testes, testes, 1 2 3</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Open-Transactions #12: ESCROW Smart Contract (2 of 3)]]></title>
+    <link href="http://Open-Transactions.github.io/tv/blog/2012/07/26/open-transactions-number-12-escrow-smart-contract-2-of-3/"/>
+    <updated>2012-07-26T23:33:00-05:00</updated>
+    <id>http://Open-Transactions.github.io/tv/blog/2012/07/26/open-transactions-number-12-escrow-smart-contract-2-of-3</id>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_12_640.mp4' width='640' height='480'></video></p>
+
+<script>
+// using jQuery
+jQuery('video,audio').mediaelementplayer(/* Options */);
+</script>
+
+
+<p><a href="http://ft.vm.to/files/videos/ot_12_640.mp4">Download</a></p>
+
+
+<p>Bitcoin 1NtTPVVjDsUfDWybS4BwvHpG2pdS9RnYyQ</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Open-Transactions #11: ESCROW Smart Contract (1 of 3)]]></title>
+    <link href="http://Open-Transactions.github.io/tv/blog/2012/07/26/open-transactions-number-11-escrow-smart-contract-1-of-3/"/>
+    <updated>2012-07-26T23:33:00-05:00</updated>
+    <id>http://Open-Transactions.github.io/tv/blog/2012/07/26/open-transactions-number-11-escrow-smart-contract-1-of-3</id>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_11_640.mp4' width='640' height='480'></video></p>
+
+<script>
+// using jQuery
+jQuery('video,audio').mediaelementplayer(/* Options */);
+</script>
+
+
+<p><a href="http://ft.vm.to/files/videos/ot_11_640.mp4">Download</a></p>
+
+
+<p>Bitcoin 1NtTPVVjDsUfDWybS4BwvHpG2pdS9RnYyQ</p>
+
+<p><a href="https://github.com/FellowTraveler/Open-Transactions/wiki/Smart-contracts">Smart Contracts article</a></p>
+
+<p>(See the &lsquo;Two-Way Trade&rsquo; smart contract, below 8-10, before watching these new &lsquo;Escrow&rsquo; videos.)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Open-Transactions #8: Smart Contract: Two-Way Trade (1 of 3)]]></title>
+    <link href="http://Open-Transactions.github.io/tv/blog/2012/07/25/open-transactions-number-8-smart-contract-two-way-trade-1-of-3/"/>
+    <updated>2012-07-25T08:11:00-05:00</updated>
+    <id>http://Open-Transactions.github.io/tv/blog/2012/07/25/open-transactions-number-8-smart-contract-two-way-trade-1-of-3</id>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_8_640.mp4' width='640' height='480'></video></p>
+
+<script>
+// using jQuery
+jQuery('video,audio').mediaelementplayer(/* Options */);
+</script>
+
+
+<p><a href="http://ft.vm.to/files/videos/ot_8_640.mp4">Download</a></p>
+
+
+<p>Bitcoin 1NtTPVVjDsUfDWybS4BwvHpG2pdS9RnYyQ</p>
+
+<p><a href="https://github.com/FellowTraveler/Open-Transactions/wiki/Smart-contracts">Smart Contracts article</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Open-Transactions #9: Smart Contract: Two-Way Trade (2 of 3)]]></title>
+    <link href="http://Open-Transactions.github.io/tv/blog/2012/07/25/open-transactions-number-9-smart-contract-two-way-trade-2-of-3/"/>
+    <updated>2012-07-25T08:10:00-05:00</updated>
+    <id>http://Open-Transactions.github.io/tv/blog/2012/07/25/open-transactions-number-9-smart-contract-two-way-trade-2-of-3</id>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_9_640.mp4' width='640' height='480'></video></p>
+
+<script>
+// using jQuery
+jQuery('video,audio').mediaelementplayer(/* Options */);
+</script>
+
+
+<p><a href="http://ft.vm.to/files/videos/ot_9_640.mp4">Download</a></p>
+
+
+<p>Bitcoin 1NtTPVVjDsUfDWybS4BwvHpG2pdS9RnYyQ</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Open-Transactions #10: Smart Contract: Two-Way Trade (3 of 3)]]></title>
+    <link href="http://Open-Transactions.github.io/tv/blog/2012/07/25/open-transactions-number-10-smart-contract-two-way-trade-3-of-3/"/>
+    <updated>2012-07-25T08:10:00-05:00</updated>
+    <id>http://Open-Transactions.github.io/tv/blog/2012/07/25/open-transactions-number-10-smart-contract-two-way-trade-3-of-3</id>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_10_640.mp4' width='640' height='480'></video></p>
+
+<script>
+// using jQuery
+jQuery('video,audio').mediaelementplayer(/* Options */);
+</script>
+
+
+<p><a href="http://ft.vm.to/files/videos/ot_10_640.mp4">Download</a></p>
+
+
+<p>Bitcoin 1NtTPVVjDsUfDWybS4BwvHpG2pdS9RnYyQ</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Open-Transactions #7 Moneychanger GUI: Basket currencies]]></title>
+    <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-7-moneychanger-gui-basket-currencies/"/>
+    <updated>2012-07-22T02:26:00-05:00</updated>
+    <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-7-moneychanger-gui-basket-currencies</id>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_7_streaming.mp4' width='640' height='480'></video></p>
+
+<script>
+// using jQuery
+jQuery('video,audio').mediaelementplayer(/* Options */);
+</script>
+
+
+<p><a href="http://ft.vm.to/files/videos/ot_7_streaming.mp4">Download</a></p>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Open-Transactions #6 opentxs CLI: Misc tips and tricks]]></title>
+    <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-6-opentxs-cli-misc-tips-and-tricks/"/>
+    <updated>2012-07-22T02:25:00-05:00</updated>
+    <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-6-opentxs-cli-misc-tips-and-tricks</id>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_6_streaming.mp4' width='640' height='480'></video></p>
+
+<script>
+// using jQuery
+jQuery('video,audio').mediaelementplayer(/* Options */);
+</script>
+
+
+<p><a href="http://ft.vm.to/files/videos/ot_6_streaming.mp4">Download</a></p>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Open-Transactions #5 opentxs CLI: Writing and depositing cheques]]></title>
+    <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-5-opentxs-cli-writing-and-depositing-cheques/"/>
+    <updated>2012-07-22T02:25:00-05:00</updated>
+    <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-5-opentxs-cli-writing-and-depositing-cheques</id>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_5_streaming.mp4' width='640' height='480'></video></p>
+
+<script>
+// using jQuery
+jQuery('video,audio').mediaelementplayer(/* Options */);
+</script>
+
+
+<p><a href="http://ft.vm.to/files/videos/ot_5_streaming.mp4">Download</a></p>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Open-Transactions #4 opentxs CLI: Withdrawing and depositing cash]]></title>
+    <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-4-opentxs-cli-withdrawing-and-depositing-cash/"/>
+    <updated>2012-07-22T02:25:00-05:00</updated>
+    <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-4-opentxs-cli-withdrawing-and-depositing-cash</id>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_4_streaming.mp4' width='640' height='480'></video></p>
+
+<script>
+// using jQuery
+jQuery('video,audio').mediaelementplayer(/* Options */);
+</script>
+
+
+<p><a href="http://ft.vm.to/files/videos/ot_4_streaming.mp4">Download</a></p>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Open-Transactions #1 opentxs CLI: Command Line Interface Intro, the OT data folders, and the OT script environment]]></title>
+    <link href="http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-1-cli-intro-and-ot-data-folders-and-the-ot-script-environment/"/>
+    <updated>2012-07-14T15:46:00-05:00</updated>
+    <id>http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-1-cli-intro-and-ot-data-folders-and-the-ot-script-environment</id>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_1_streaming.mp4' width='640' height='480'></video></p>
+
+<script>
+// using jQuery
+jQuery('video,audio').mediaelementplayer(/* Options */);
+</script>
+
+
+<p><a href="http://ft.vm.to/files/videos/ot_1_streaming.mp4">Download</a></p>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Open-Transactions #2 opentxs CLI: Adding server contracts to the wallet]]></title>
+    <link href="http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-2-cli-adding-server-contracts-to-the-wallet/"/>
+    <updated>2012-07-14T15:45:00-05:00</updated>
+    <id>http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-2-cli-adding-server-contracts-to-the-wallet</id>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_2_streaming.mp4' width='640' height='480'></video></p>
+
+<script>
+// using jQuery
+jQuery('video,audio').mediaelementplayer(/* Options */);
+</script>
+
+
+<p><a href="http://ft.vm.to/files/videos/ot_2_streaming.mp4">Download</a></p>
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Open-Transactions #3 opentxs CLI: Sending account-to-account transfer]]></title>
+    <link href="http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-3-cli-sending-account-to-account-transfer/"/>
+    <updated>2012-07-14T15:44:00-05:00</updated>
+    <id>http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-3-cli-sending-account-to-account-transfer</id>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_3_streaming.mp4' width='640' height='480'></video></p>
+
+<script>
+// using jQuery
+jQuery('video,audio').mediaelementplayer(/* Options */);
+</script>
+
+
+<p><a href="http://ft.vm.to/files/videos/ot_3_streaming.mp4">Download</a></p>
+
+
+
+]]></content>
+  </entry>
+  
+</feed>
