@@ -4,7 +4,7 @@
   <title><![CDATA[Open Transactions TV]]></title>
   <link href="http://Open-Transactions.github.io/tv/atom.xml" rel="self"/>
   <link href="http://Open-Transactions.github.io/tv/"/>
-  <updated>2013-06-13T11:56:43-05:00</updated>
+  <updated>2013-06-13T14:03:12-05:00</updated>
   <id>http://Open-Transactions.github.io/tv/</id>
   <author>
     <name><![CDATA[Fellow Traveler]]></name>
@@ -30,8 +30,6 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
 
 
 <p>Bitcoin 1NtTPVVjDsUfDWybS4BwvHpG2pdS9RnYyQ</p>
-
-<p>testes, testes, 1 2 3</p>
 ]]></content>
   </entry>
   
@@ -76,6 +74,31 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
 <p><a href="https://github.com/FellowTraveler/Open-Transactions/wiki/Smart-contracts">Smart Contracts article</a></p>
 
 <p>(See the &lsquo;Two-Way Trade&rsquo; smart contract, below 8-10, before watching these new &lsquo;Escrow&rsquo; videos.)</p>
+
+<p><video width='640' height='480' preload='none' controls poster=''><source src='http://ft.vm.to/files/videos/ot_11_640.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+
+<p><video width="320" height="240" poster="poster.jpg" controls="controls" preload="none"></p>
+
+<pre><code>&lt;!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --&gt;
+&lt;source type="video/mp4" src="myvideo.mp4" /&gt;
+&lt;!-- WebM/VP8 for Firefox4, Opera, and Chrome --&gt;
+&lt;source type="video/webm" src="myvideo.webm" /&gt;
+&lt;!-- Ogg/Vorbis for older Firefox and Opera versions --&gt;
+&lt;source type="video/ogg" src="myvideo.ogv" /&gt;
+&lt;!-- Optional: Add subtitles for each language --&gt;
+&lt;track kind="subtitles" src="subtitles.srt" srclang="en" /&gt;
+&lt;!-- Optional: Add chapters --&gt;
+&lt;track kind="chapters" src="chapters.srt" srclang="en" /&gt;
+&lt;!-- Flash fallback for non-HTML5 browsers without JavaScript --&gt;
+&lt;object width="320" height="240" type="application/x-shockwave-flash" data="flashmediaelement.swf"&gt;
+    &lt;param name="movie" value="flashmediaelement.swf" /&gt;
+    &lt;param name="flashvars" value="controls=true&amp;file=myvideo.mp4" /&gt;
+    &lt;!-- Image as a last resort --&gt;
+    &lt;img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" /&gt;
+&lt;/object&gt;
+</code></pre>
+
+<p></video></p>
 ]]></content>
   </entry>
   
@@ -146,7 +169,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-7-moneychanger-gui-basket-currencies/"/>
     <updated>2012-07-22T02:26:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-7-moneychanger-gui-basket-currencies</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_7_streaming.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_7_640.mp4' width='640' height='480'></video></p>
 
 <script>
 // using jQuery
@@ -154,7 +177,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
 
 
-<p><a href="http://ft.vm.to/files/videos/ot_7_streaming.mp4">Download</a></p>
+<p><a href="http://ft.vm.to/files/videos/ot_7_640.mp4">Download</a></p>
 
 
 
@@ -166,7 +189,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-6-opentxs-cli-misc-tips-and-tricks/"/>
     <updated>2012-07-22T02:25:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-6-opentxs-cli-misc-tips-and-tricks</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_6_streaming.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_6_640.mp4' width='640' height='480'></video></p>
 
 <script>
 // using jQuery
@@ -174,7 +197,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
 
 
-<p><a href="http://ft.vm.to/files/videos/ot_6_streaming.mp4">Download</a></p>
+<p><a href="http://ft.vm.to/files/videos/ot_6_640.mp4">Download</a></p>
 
 
 
@@ -186,7 +209,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-5-opentxs-cli-writing-and-depositing-cheques/"/>
     <updated>2012-07-22T02:25:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-5-opentxs-cli-writing-and-depositing-cheques</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_5_streaming.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_5_640.mp4' width='640' height='480'></video></p>
 
 <script>
 // using jQuery
@@ -194,7 +217,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
 
 
-<p><a href="http://ft.vm.to/files/videos/ot_5_streaming.mp4">Download</a></p>
+<p><a href="http://ft.vm.to/files/videos/ot_5_640.mp4">Download</a></p>
 
 
 
@@ -206,7 +229,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-4-opentxs-cli-withdrawing-and-depositing-cash/"/>
     <updated>2012-07-22T02:25:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-4-opentxs-cli-withdrawing-and-depositing-cash</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_4_streaming.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_4_640.mp4' width='640' height='480'></video></p>
 
 <script>
 // using jQuery
@@ -214,7 +237,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
 
 
-<p><a href="http://ft.vm.to/files/videos/ot_4_streaming.mp4">Download</a></p>
+<p><a href="http://ft.vm.to/files/videos/ot_4_640.mp4">Download</a></p>
 
 
 
@@ -226,7 +249,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-1-cli-intro-and-ot-data-folders-and-the-ot-script-environment/"/>
     <updated>2012-07-14T15:46:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-1-cli-intro-and-ot-data-folders-and-the-ot-script-environment</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_1_streaming.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_1_640.mp4' width='640' height='480'></video></p>
 
 <script>
 // using jQuery
@@ -234,7 +257,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
 
 
-<p><a href="http://ft.vm.to/files/videos/ot_1_streaming.mp4">Download</a></p>
+<p><a href="http://ft.vm.to/files/videos/ot_1_640.mp4">Download</a></p>
 
 
 
@@ -246,7 +269,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-2-cli-adding-server-contracts-to-the-wallet/"/>
     <updated>2012-07-14T15:45:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-2-cli-adding-server-contracts-to-the-wallet</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_2_streaming.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_2_640.mp4' width='640' height='480'></video></p>
 
 <script>
 // using jQuery
@@ -254,7 +277,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
 
 
-<p><a href="http://ft.vm.to/files/videos/ot_2_streaming.mp4">Download</a></p>
+<p><a href="http://ft.vm.to/files/videos/ot_2_640.mp4">Download</a></p>
 
 
 
@@ -266,7 +289,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-3-cli-sending-account-to-account-transfer/"/>
     <updated>2012-07-14T15:44:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-3-cli-sending-account-to-account-transfer</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_3_streaming.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_3_640.mp4' width='640' height='480'></video></p>
 
 <script>
 // using jQuery
@@ -274,7 +297,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
 
 
-<p><a href="http://ft.vm.to/files/videos/ot_3_streaming.mp4">Download</a></p>
+<p><a href="http://ft.vm.to/files/videos/ot_3_640.mp4">Download</a></p>
 
 
 

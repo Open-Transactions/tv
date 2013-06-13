@@ -4,7 +4,7 @@
   <title><![CDATA[Category: opentxs, | Open Transactions TV]]></title>
   <link href="http://Open-Transactions.github.io/tv/blog/categories/opentxs/atom.xml" rel="self"/>
   <link href="http://Open-Transactions.github.io/tv/"/>
-  <updated>2013-06-13T11:56:43-05:00</updated>
+  <updated>2013-06-13T14:03:12-05:00</updated>
   <id>http://Open-Transactions.github.io/tv/</id>
   <author>
     <name><![CDATA[Fellow Traveler]]></name>
@@ -18,12 +18,12 @@
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-6-opentxs-cli-misc-tips-and-tricks/"/>
     <updated>2012-07-22T02:25:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-6-opentxs-cli-misc-tips-and-tricks</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_6_streaming.mp4">http://ft.vm.to/files/videos/ot_6_streaming.mp4</a>' width='640' height='480'></video>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_6_640.mp4">http://ft.vm.to/files/videos/ot_6_640.mp4</a>' width='640' height='480'></video>
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-<p><a href="http://ft.vm.to/files/videos/ot_6_streaming.mp4">http://ft.vm.to/files/videos/ot_6_streaming.mp4</a>">Download</a></p>
+<p><a href="http://ft.vm.to/files/videos/ot_6_640.mp4">http://ft.vm.to/files/videos/ot_6_640.mp4</a>">Download</a></p>
 </p>
 ]]></content>
   </entry>
@@ -33,12 +33,12 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-5-opentxs-cli-writing-and-depositing-cheques/"/>
     <updated>2012-07-22T02:25:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-5-opentxs-cli-writing-and-depositing-cheques</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_5_streaming.mp4">http://ft.vm.to/files/videos/ot_5_streaming.mp4</a>' width='640' height='480'></video>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_5_640.mp4">http://ft.vm.to/files/videos/ot_5_640.mp4</a>' width='640' height='480'></video>
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-<p><a href="http://ft.vm.to/files/videos/ot_5_streaming.mp4">http://ft.vm.to/files/videos/ot_5_streaming.mp4</a>">Download</a></p>
+<p><a href="http://ft.vm.to/files/videos/ot_5_640.mp4">http://ft.vm.to/files/videos/ot_5_640.mp4</a>">Download</a></p>
 </p>
 ]]></content>
   </entry>
@@ -48,12 +48,12 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-4-opentxs-cli-withdrawing-and-depositing-cash/"/>
     <updated>2012-07-22T02:25:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-4-opentxs-cli-withdrawing-and-depositing-cash</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_4_streaming.mp4">http://ft.vm.to/files/videos/ot_4_streaming.mp4</a>' width='640' height='480'></video>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_4_640.mp4">http://ft.vm.to/files/videos/ot_4_640.mp4</a>' width='640' height='480'></video>
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-<p><a href="http://ft.vm.to/files/videos/ot_4_streaming.mp4">http://ft.vm.to/files/videos/ot_4_streaming.mp4</a>">Download</a></p>
+<p><a href="http://ft.vm.to/files/videos/ot_4_640.mp4">http://ft.vm.to/files/videos/ot_4_640.mp4</a>">Download</a></p>
 </p>
 ]]></content>
   </entry>
@@ -63,12 +63,12 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-1-cli-intro-and-ot-data-folders-and-the-ot-script-environment/"/>
     <updated>2012-07-14T15:46:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-1-cli-intro-and-ot-data-folders-and-the-ot-script-environment</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_1_streaming.mp4">http://ft.vm.to/files/videos/ot_1_streaming.mp4</a>' width='640' height='480'></video>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_1_640.mp4">http://ft.vm.to/files/videos/ot_1_640.mp4</a>' width='640' height='480'></video>
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-<p><a href="http://ft.vm.to/files/videos/ot_1_streaming.mp4">http://ft.vm.to/files/videos/ot_1_streaming.mp4</a>">Download</a></p>
+<p><a href="http://ft.vm.to/files/videos/ot_1_640.mp4">http://ft.vm.to/files/videos/ot_1_640.mp4</a>">Download</a></p>
 </p>
 ]]></content>
   </entry>
@@ -78,12 +78,12 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-2-cli-adding-server-contracts-to-the-wallet/"/>
     <updated>2012-07-14T15:45:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-2-cli-adding-server-contracts-to-the-wallet</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_2_streaming.mp4">http://ft.vm.to/files/videos/ot_2_streaming.mp4</a>' width='640' height='480'></video>
+    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_2_640.mp4">http://ft.vm.to/files/videos/ot_2_640.mp4</a>' width='640' height='480'></video>
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-<p><a href="http://ft.vm.to/files/videos/ot_2_streaming.mp4">http://ft.vm.to/files/videos/ot_2_streaming.mp4</a>">Download</a></p>
+<p><a href="http://ft.vm.to/files/videos/ot_2_640.mp4">http://ft.vm.to/files/videos/ot_2_640.mp4</a>">Download</a></p>
 </p>
 ]]></content>
   </entry>
