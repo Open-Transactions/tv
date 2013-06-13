@@ -4,7 +4,7 @@
   <title><![CDATA[Open Transactions TV]]></title>
   <link href="http://Open-Transactions.github.io/tv/atom.xml" rel="self"/>
   <link href="http://Open-Transactions.github.io/tv/"/>
-  <updated>2013-06-13T14:03:12-05:00</updated>
+  <updated>2013-06-13T15:06:09-05:00</updated>
   <id>http://Open-Transactions.github.io/tv/</id>
   <author>
     <name><![CDATA[Fellow Traveler]]></name>
@@ -18,15 +18,33 @@
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/26/open-transactions-number-13-escrow-smart-contract/"/>
     <updated>2012-07-26T23:33:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/26/open-transactions-number-13-escrow-smart-contract</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_13_640.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="poster.jpg" controls="controls" preload="none"></p>
+
+<pre><code>&lt;!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --&gt;
+&lt;source type="video/mp4" src="http://ft.vm.to/files/videos/ot_13_640.mp4" /&gt;
+&lt;!-- WebM/VP8 for Firefox4, Opera, and Chrome --&gt;
+&lt;source type="video/webm" src="http://ft.vm.to/files/videos/ot_13_640.mp4" /&gt;
+&lt;!-- Ogg/Vorbis for older Firefox and Opera versions --&gt;
+&lt;source type="video/ogg" src="http://ft.vm.to/files/videos/ot_13_640.mp4" /&gt;
+&lt;!-- Optional: Add subtitles for each language --&gt;
+&lt;track kind="subtitles" src="subtitles.srt" srclang="en" /&gt;
+&lt;!-- Optional: Add chapters --&gt;
+&lt;track kind="chapters" src="chapters.srt" srclang="en" /&gt;
+&lt;!-- Flash fallback for non-HTML5 browsers without JavaScript --&gt;
+&lt;object width="640" height="480" type="application/x-shockwave-flash" data="flashmediaelement.swf"&gt;
+    &lt;param name="movie" value="flashmediaelement.swf" /&gt;
+    &lt;param name="flashvars" value="controls=true&amp;file=http://ft.vm.to/files/videos/ot_13_640.mp4" /&gt;
+    &lt;!-- Image as a last resort --&gt;
+    &lt;img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" /&gt;
+&lt;/object&gt;
+</code></pre>
+
+<p></video></p>
 
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-
-
-<p><a href="http://ft.vm.to/files/videos/ot_13_640.mp4">Download</a></p>
 
 
 <p>Bitcoin 1NtTPVVjDsUfDWybS4BwvHpG2pdS9RnYyQ</p>
@@ -38,15 +56,33 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/26/open-transactions-number-12-escrow-smart-contract-2-of-3/"/>
     <updated>2012-07-26T23:33:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/26/open-transactions-number-12-escrow-smart-contract-2-of-3</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_12_640.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="poster.jpg" controls="controls" preload="none"></p>
+
+<pre><code>&lt;!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --&gt;
+&lt;source type="video/mp4" src="http://ft.vm.to/files/videos/ot_12_640.mp4" /&gt;
+&lt;!-- WebM/VP8 for Firefox4, Opera, and Chrome --&gt;
+&lt;source type="video/webm" src="http://ft.vm.to/files/videos/ot_12_640.mp4" /&gt;
+&lt;!-- Ogg/Vorbis for older Firefox and Opera versions --&gt;
+&lt;source type="video/ogg" src="http://ft.vm.to/files/videos/ot_12_640.mp4" /&gt;
+&lt;!-- Optional: Add subtitles for each language --&gt;
+&lt;track kind="subtitles" src="subtitles.srt" srclang="en" /&gt;
+&lt;!-- Optional: Add chapters --&gt;
+&lt;track kind="chapters" src="chapters.srt" srclang="en" /&gt;
+&lt;!-- Flash fallback for non-HTML5 browsers without JavaScript --&gt;
+&lt;object width="640" height="480" type="application/x-shockwave-flash" data="flashmediaelement.swf"&gt;
+    &lt;param name="movie" value="flashmediaelement.swf" /&gt;
+    &lt;param name="flashvars" value="controls=true&amp;file=http://ft.vm.to/files/videos/ot_12_640.mp4" /&gt;
+    &lt;!-- Image as a last resort --&gt;
+    &lt;img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" /&gt;
+&lt;/object&gt;
+</code></pre>
+
+<p></video></p>
 
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-
-
-<p><a href="http://ft.vm.to/files/videos/ot_12_640.mp4">Download</a></p>
 
 
 <p>Bitcoin 1NtTPVVjDsUfDWybS4BwvHpG2pdS9RnYyQ</p>
@@ -58,15 +94,33 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/26/open-transactions-number-11-escrow-smart-contract-1-of-3/"/>
     <updated>2012-07-26T23:33:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/26/open-transactions-number-11-escrow-smart-contract-1-of-3</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_11_640.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="poster.jpg" controls="controls" preload="none"></p>
+
+<pre><code>&lt;!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --&gt;
+&lt;source type="video/mp4" src="http://ft.vm.to/files/videos/ot_11_640.mp4" /&gt;
+&lt;!-- WebM/VP8 for Firefox4, Opera, and Chrome --&gt;
+&lt;source type="video/webm" src="http://ft.vm.to/files/videos/ot_11_640.mp4" /&gt;
+&lt;!-- Ogg/Vorbis for older Firefox and Opera versions --&gt;
+&lt;source type="video/ogg" src="http://ft.vm.to/files/videos/ot_11_640.mp4" /&gt;
+&lt;!-- Optional: Add subtitles for each language --&gt;
+&lt;track kind="subtitles" src="subtitles.srt" srclang="en" /&gt;
+&lt;!-- Optional: Add chapters --&gt;
+&lt;track kind="chapters" src="chapters.srt" srclang="en" /&gt;
+&lt;!-- Flash fallback for non-HTML5 browsers without JavaScript --&gt;
+&lt;object width="640" height="480" type="application/x-shockwave-flash" data="flashmediaelement.swf"&gt;
+    &lt;param name="movie" value="flashmediaelement.swf" /&gt;
+    &lt;param name="flashvars" value="controls=true&amp;file=http://ft.vm.to/files/videos/ot_11_640.mp4" /&gt;
+    &lt;!-- Image as a last resort --&gt;
+    &lt;img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" /&gt;
+&lt;/object&gt;
+</code></pre>
+
+<p></video></p>
 
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-
-
-<p><a href="http://ft.vm.to/files/videos/ot_11_640.mp4">Download</a></p>
 
 
 <p>Bitcoin 1NtTPVVjDsUfDWybS4BwvHpG2pdS9RnYyQ</p>
@@ -76,29 +130,6 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
 <p>(See the &lsquo;Two-Way Trade&rsquo; smart contract, below 8-10, before watching these new &lsquo;Escrow&rsquo; videos.)</p>
 
 <p><video width='640' height='480' preload='none' controls poster=''><source src='http://ft.vm.to/files/videos/ot_11_640.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
-
-<p><video width="320" height="240" poster="poster.jpg" controls="controls" preload="none"></p>
-
-<pre><code>&lt;!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --&gt;
-&lt;source type="video/mp4" src="myvideo.mp4" /&gt;
-&lt;!-- WebM/VP8 for Firefox4, Opera, and Chrome --&gt;
-&lt;source type="video/webm" src="myvideo.webm" /&gt;
-&lt;!-- Ogg/Vorbis for older Firefox and Opera versions --&gt;
-&lt;source type="video/ogg" src="myvideo.ogv" /&gt;
-&lt;!-- Optional: Add subtitles for each language --&gt;
-&lt;track kind="subtitles" src="subtitles.srt" srclang="en" /&gt;
-&lt;!-- Optional: Add chapters --&gt;
-&lt;track kind="chapters" src="chapters.srt" srclang="en" /&gt;
-&lt;!-- Flash fallback for non-HTML5 browsers without JavaScript --&gt;
-&lt;object width="320" height="240" type="application/x-shockwave-flash" data="flashmediaelement.swf"&gt;
-    &lt;param name="movie" value="flashmediaelement.swf" /&gt;
-    &lt;param name="flashvars" value="controls=true&amp;file=myvideo.mp4" /&gt;
-    &lt;!-- Image as a last resort --&gt;
-    &lt;img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" /&gt;
-&lt;/object&gt;
-</code></pre>
-
-<p></video></p>
 ]]></content>
   </entry>
   
@@ -107,15 +138,33 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/25/open-transactions-number-8-smart-contract-two-way-trade-1-of-3/"/>
     <updated>2012-07-25T08:11:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/25/open-transactions-number-8-smart-contract-two-way-trade-1-of-3</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_8_640.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="poster.jpg" controls="controls" preload="none"></p>
+
+<pre><code>&lt;!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --&gt;
+&lt;source type="video/mp4" src="http://ft.vm.to/files/videos/ot_8_640.mp4" /&gt;
+&lt;!-- WebM/VP8 for Firefox4, Opera, and Chrome --&gt;
+&lt;source type="video/webm" src="http://ft.vm.to/files/videos/ot_8_640.mp4" /&gt;
+&lt;!-- Ogg/Vorbis for older Firefox and Opera versions --&gt;
+&lt;source type="video/ogg" src="http://ft.vm.to/files/videos/ot_8_640.mp4" /&gt;
+&lt;!-- Optional: Add subtitles for each language --&gt;
+&lt;track kind="subtitles" src="subtitles.srt" srclang="en" /&gt;
+&lt;!-- Optional: Add chapters --&gt;
+&lt;track kind="chapters" src="chapters.srt" srclang="en" /&gt;
+&lt;!-- Flash fallback for non-HTML5 browsers without JavaScript --&gt;
+&lt;object width="640" height="480" type="application/x-shockwave-flash" data="flashmediaelement.swf"&gt;
+    &lt;param name="movie" value="flashmediaelement.swf" /&gt;
+    &lt;param name="flashvars" value="controls=true&amp;file=http://ft.vm.to/files/videos/ot_8_640.mp4" /&gt;
+    &lt;!-- Image as a last resort --&gt;
+    &lt;img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" /&gt;
+&lt;/object&gt;
+</code></pre>
+
+<p></video></p>
 
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-
-
-<p><a href="http://ft.vm.to/files/videos/ot_8_640.mp4">Download</a></p>
 
 
 <p>Bitcoin 1NtTPVVjDsUfDWybS4BwvHpG2pdS9RnYyQ</p>
@@ -129,15 +178,33 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/25/open-transactions-number-9-smart-contract-two-way-trade-2-of-3/"/>
     <updated>2012-07-25T08:10:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/25/open-transactions-number-9-smart-contract-two-way-trade-2-of-3</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_9_640.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="poster.jpg" controls="controls" preload="none"></p>
+
+<pre><code>&lt;!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --&gt;
+&lt;source type="video/mp4" src="http://ft.vm.to/files/videos/ot_9_640.mp4" /&gt;
+&lt;!-- WebM/VP8 for Firefox4, Opera, and Chrome --&gt;
+&lt;source type="video/webm" src="http://ft.vm.to/files/videos/ot_9_640.mp4" /&gt;
+&lt;!-- Ogg/Vorbis for older Firefox and Opera versions --&gt;
+&lt;source type="video/ogg" src="http://ft.vm.to/files/videos/ot_9_640.mp4" /&gt;
+&lt;!-- Optional: Add subtitles for each language --&gt;
+&lt;track kind="subtitles" src="subtitles.srt" srclang="en" /&gt;
+&lt;!-- Optional: Add chapters --&gt;
+&lt;track kind="chapters" src="chapters.srt" srclang="en" /&gt;
+&lt;!-- Flash fallback for non-HTML5 browsers without JavaScript --&gt;
+&lt;object width="640" height="480" type="application/x-shockwave-flash" data="flashmediaelement.swf"&gt;
+    &lt;param name="movie" value="flashmediaelement.swf" /&gt;
+    &lt;param name="flashvars" value="controls=true&amp;file=http://ft.vm.to/files/videos/ot_9_640.mp4" /&gt;
+    &lt;!-- Image as a last resort --&gt;
+    &lt;img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" /&gt;
+&lt;/object&gt;
+</code></pre>
+
+<p></video></p>
 
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-
-
-<p><a href="http://ft.vm.to/files/videos/ot_9_640.mp4">Download</a></p>
 
 
 <p>Bitcoin 1NtTPVVjDsUfDWybS4BwvHpG2pdS9RnYyQ</p>
@@ -149,15 +216,33 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/25/open-transactions-number-10-smart-contract-two-way-trade-3-of-3/"/>
     <updated>2012-07-25T08:10:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/25/open-transactions-number-10-smart-contract-two-way-trade-3-of-3</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_10_640.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="poster.jpg" controls="controls" preload="none"></p>
+
+<pre><code>&lt;!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --&gt;
+&lt;source type="video/mp4" src="http://ft.vm.to/files/videos/ot_10_640.mp4" /&gt;
+&lt;!-- WebM/VP8 for Firefox4, Opera, and Chrome --&gt;
+&lt;source type="video/webm" src="http://ft.vm.to/files/videos/ot_10_640.mp4" /&gt;
+&lt;!-- Ogg/Vorbis for older Firefox and Opera versions --&gt;
+&lt;source type="video/ogg" src="http://ft.vm.to/files/videos/ot_10_640.mp4" /&gt;
+&lt;!-- Optional: Add subtitles for each language --&gt;
+&lt;track kind="subtitles" src="subtitles.srt" srclang="en" /&gt;
+&lt;!-- Optional: Add chapters --&gt;
+&lt;track kind="chapters" src="chapters.srt" srclang="en" /&gt;
+&lt;!-- Flash fallback for non-HTML5 browsers without JavaScript --&gt;
+&lt;object width="640" height="480" type="application/x-shockwave-flash" data="flashmediaelement.swf"&gt;
+    &lt;param name="movie" value="flashmediaelement.swf" /&gt;
+    &lt;param name="flashvars" value="controls=true&amp;file=http://ft.vm.to/files/videos/ot_10_640.mp4" /&gt;
+    &lt;!-- Image as a last resort --&gt;
+    &lt;img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" /&gt;
+&lt;/object&gt;
+</code></pre>
+
+<p></video></p>
 
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-
-
-<p><a href="http://ft.vm.to/files/videos/ot_10_640.mp4">Download</a></p>
 
 
 <p>Bitcoin 1NtTPVVjDsUfDWybS4BwvHpG2pdS9RnYyQ</p>
@@ -169,15 +254,33 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-7-moneychanger-gui-basket-currencies/"/>
     <updated>2012-07-22T02:26:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-7-moneychanger-gui-basket-currencies</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_7_640.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="poster.jpg" controls="controls" preload="none"></p>
+
+<pre><code>&lt;!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --&gt;
+&lt;source type="video/mp4" src="http://ft.vm.to/files/videos/ot_7_640.mp4" /&gt;
+&lt;!-- WebM/VP8 for Firefox4, Opera, and Chrome --&gt;
+&lt;source type="video/webm" src="http://ft.vm.to/files/videos/ot_7_640.mp4" /&gt;
+&lt;!-- Ogg/Vorbis for older Firefox and Opera versions --&gt;
+&lt;source type="video/ogg" src="http://ft.vm.to/files/videos/ot_7_640.mp4" /&gt;
+&lt;!-- Optional: Add subtitles for each language --&gt;
+&lt;track kind="subtitles" src="subtitles.srt" srclang="en" /&gt;
+&lt;!-- Optional: Add chapters --&gt;
+&lt;track kind="chapters" src="chapters.srt" srclang="en" /&gt;
+&lt;!-- Flash fallback for non-HTML5 browsers without JavaScript --&gt;
+&lt;object width="640" height="480" type="application/x-shockwave-flash" data="flashmediaelement.swf"&gt;
+    &lt;param name="movie" value="flashmediaelement.swf" /&gt;
+    &lt;param name="flashvars" value="controls=true&amp;file=http://ft.vm.to/files/videos/ot_7_640.mp4" /&gt;
+    &lt;!-- Image as a last resort --&gt;
+    &lt;img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" /&gt;
+&lt;/object&gt;
+</code></pre>
+
+<p></video></p>
 
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-
-
-<p><a href="http://ft.vm.to/files/videos/ot_7_640.mp4">Download</a></p>
 
 
 
@@ -189,15 +292,33 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-6-opentxs-cli-misc-tips-and-tricks/"/>
     <updated>2012-07-22T02:25:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-6-opentxs-cli-misc-tips-and-tricks</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_6_640.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="poster.jpg" controls="controls" preload="none"></p>
+
+<pre><code>&lt;!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --&gt;
+&lt;source type="video/mp4" src="http://ft.vm.to/files/videos/ot_6_640.mp4" /&gt;
+&lt;!-- WebM/VP8 for Firefox4, Opera, and Chrome --&gt;
+&lt;source type="video/webm" src="http://ft.vm.to/files/videos/ot_6_640.mp4" /&gt;
+&lt;!-- Ogg/Vorbis for older Firefox and Opera versions --&gt;
+&lt;source type="video/ogg" src="http://ft.vm.to/files/videos/ot_6_640.mp4" /&gt;
+&lt;!-- Optional: Add subtitles for each language --&gt;
+&lt;track kind="subtitles" src="subtitles.srt" srclang="en" /&gt;
+&lt;!-- Optional: Add chapters --&gt;
+&lt;track kind="chapters" src="chapters.srt" srclang="en" /&gt;
+&lt;!-- Flash fallback for non-HTML5 browsers without JavaScript --&gt;
+&lt;object width="640" height="480" type="application/x-shockwave-flash" data="flashmediaelement.swf"&gt;
+    &lt;param name="movie" value="flashmediaelement.swf" /&gt;
+    &lt;param name="flashvars" value="controls=true&amp;file=http://ft.vm.to/files/videos/ot_6_640.mp4" /&gt;
+    &lt;!-- Image as a last resort --&gt;
+    &lt;img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" /&gt;
+&lt;/object&gt;
+</code></pre>
+
+<p></video></p>
 
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-
-
-<p><a href="http://ft.vm.to/files/videos/ot_6_640.mp4">Download</a></p>
 
 
 
@@ -209,15 +330,33 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-5-opentxs-cli-writing-and-depositing-cheques/"/>
     <updated>2012-07-22T02:25:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-5-opentxs-cli-writing-and-depositing-cheques</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_5_640.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="poster.jpg" controls="controls" preload="none"></p>
+
+<pre><code>&lt;!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --&gt;
+&lt;source type="video/mp4" src="http://ft.vm.to/files/videos/ot_5_640.mp4" /&gt;
+&lt;!-- WebM/VP8 for Firefox4, Opera, and Chrome --&gt;
+&lt;source type="video/webm" src="http://ft.vm.to/files/videos/ot_5_640.mp4" /&gt;
+&lt;!-- Ogg/Vorbis for older Firefox and Opera versions --&gt;
+&lt;source type="video/ogg" src="http://ft.vm.to/files/videos/ot_5_640.mp4" /&gt;
+&lt;!-- Optional: Add subtitles for each language --&gt;
+&lt;track kind="subtitles" src="subtitles.srt" srclang="en" /&gt;
+&lt;!-- Optional: Add chapters --&gt;
+&lt;track kind="chapters" src="chapters.srt" srclang="en" /&gt;
+&lt;!-- Flash fallback for non-HTML5 browsers without JavaScript --&gt;
+&lt;object width="640" height="480" type="application/x-shockwave-flash" data="flashmediaelement.swf"&gt;
+    &lt;param name="movie" value="flashmediaelement.swf" /&gt;
+    &lt;param name="flashvars" value="controls=true&amp;file=http://ft.vm.to/files/videos/ot_5_640.mp4" /&gt;
+    &lt;!-- Image as a last resort --&gt;
+    &lt;img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" /&gt;
+&lt;/object&gt;
+</code></pre>
+
+<p></video></p>
 
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-
-
-<p><a href="http://ft.vm.to/files/videos/ot_5_640.mp4">Download</a></p>
 
 
 
@@ -229,15 +368,33 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-4-opentxs-cli-withdrawing-and-depositing-cash/"/>
     <updated>2012-07-22T02:25:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-4-opentxs-cli-withdrawing-and-depositing-cash</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_4_640.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="poster.jpg" controls="controls" preload="none"></p>
+
+<pre><code>&lt;!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --&gt;
+&lt;source type="video/mp4" src="http://ft.vm.to/files/videos/ot_4_640.mp4" /&gt;
+&lt;!-- WebM/VP8 for Firefox4, Opera, and Chrome --&gt;
+&lt;source type="video/webm" src="http://ft.vm.to/files/videos/ot_4_640.mp4" /&gt;
+&lt;!-- Ogg/Vorbis for older Firefox and Opera versions --&gt;
+&lt;source type="video/ogg" src="http://ft.vm.to/files/videos/ot_4_640.mp4" /&gt;
+&lt;!-- Optional: Add subtitles for each language --&gt;
+&lt;track kind="subtitles" src="subtitles.srt" srclang="en" /&gt;
+&lt;!-- Optional: Add chapters --&gt;
+&lt;track kind="chapters" src="chapters.srt" srclang="en" /&gt;
+&lt;!-- Flash fallback for non-HTML5 browsers without JavaScript --&gt;
+&lt;object width="640" height="480" type="application/x-shockwave-flash" data="flashmediaelement.swf"&gt;
+    &lt;param name="movie" value="flashmediaelement.swf" /&gt;
+    &lt;param name="flashvars" value="controls=true&amp;file=http://ft.vm.to/files/videos/ot_4_640.mp4" /&gt;
+    &lt;!-- Image as a last resort --&gt;
+    &lt;img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" /&gt;
+&lt;/object&gt;
+</code></pre>
+
+<p></video></p>
 
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-
-
-<p><a href="http://ft.vm.to/files/videos/ot_4_640.mp4">Download</a></p>
 
 
 
@@ -249,15 +406,33 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-1-cli-intro-and-ot-data-folders-and-the-ot-script-environment/"/>
     <updated>2012-07-14T15:46:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-1-cli-intro-and-ot-data-folders-and-the-ot-script-environment</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_1_640.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="poster.jpg" controls="controls" preload="none"></p>
+
+<pre><code>&lt;!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --&gt;
+&lt;source type="video/mp4" src="http://ft.vm.to/files/videos/ot_1_640.mp4" /&gt;
+&lt;!-- WebM/VP8 for Firefox4, Opera, and Chrome --&gt;
+&lt;source type="video/webm" src="http://ft.vm.to/files/videos/ot_1_640.mp4" /&gt;
+&lt;!-- Ogg/Vorbis for older Firefox and Opera versions --&gt;
+&lt;source type="video/ogg" src="http://ft.vm.to/files/videos/ot_1_640.mp4" /&gt;
+&lt;!-- Optional: Add subtitles for each language --&gt;
+&lt;track kind="subtitles" src="subtitles.srt" srclang="en" /&gt;
+&lt;!-- Optional: Add chapters --&gt;
+&lt;track kind="chapters" src="chapters.srt" srclang="en" /&gt;
+&lt;!-- Flash fallback for non-HTML5 browsers without JavaScript --&gt;
+&lt;object width="640" height="480" type="application/x-shockwave-flash" data="flashmediaelement.swf"&gt;
+    &lt;param name="movie" value="flashmediaelement.swf" /&gt;
+    &lt;param name="flashvars" value="controls=true&amp;file=http://ft.vm.to/files/videos/ot_1_640.mp4" /&gt;
+    &lt;!-- Image as a last resort --&gt;
+    &lt;img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" /&gt;
+&lt;/object&gt;
+</code></pre>
+
+<p></video></p>
 
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-
-
-<p><a href="http://ft.vm.to/files/videos/ot_1_640.mp4">Download</a></p>
 
 
 
@@ -269,15 +444,33 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-2-cli-adding-server-contracts-to-the-wallet/"/>
     <updated>2012-07-14T15:45:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-2-cli-adding-server-contracts-to-the-wallet</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_2_640.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="poster.jpg" controls="controls" preload="none"></p>
+
+<pre><code>&lt;!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --&gt;
+&lt;source type="video/mp4" src="http://ft.vm.to/files/videos/ot_2_640.mp4" /&gt;
+&lt;!-- WebM/VP8 for Firefox4, Opera, and Chrome --&gt;
+&lt;source type="video/webm" src="http://ft.vm.to/files/videos/ot_2_640.mp4" /&gt;
+&lt;!-- Ogg/Vorbis for older Firefox and Opera versions --&gt;
+&lt;source type="video/ogg" src="http://ft.vm.to/files/videos/ot_2_640.mp4" /&gt;
+&lt;!-- Optional: Add subtitles for each language --&gt;
+&lt;track kind="subtitles" src="subtitles.srt" srclang="en" /&gt;
+&lt;!-- Optional: Add chapters --&gt;
+&lt;track kind="chapters" src="chapters.srt" srclang="en" /&gt;
+&lt;!-- Flash fallback for non-HTML5 browsers without JavaScript --&gt;
+&lt;object width="640" height="480" type="application/x-shockwave-flash" data="flashmediaelement.swf"&gt;
+    &lt;param name="movie" value="flashmediaelement.swf" /&gt;
+    &lt;param name="flashvars" value="controls=true&amp;file=http://ft.vm.to/files/videos/ot_2_640.mp4" /&gt;
+    &lt;!-- Image as a last resort --&gt;
+    &lt;img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" /&gt;
+&lt;/object&gt;
+</code></pre>
+
+<p></video></p>
 
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-
-
-<p><a href="http://ft.vm.to/files/videos/ot_2_640.mp4">Download</a></p>
 
 
 
@@ -289,15 +482,33 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-3-cli-sending-account-to-account-transfer/"/>
     <updated>2012-07-14T15:44:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-3-cli-sending-account-to-account-transfer</id>
-    <content type="html"><![CDATA[<p><video src='http://ft.vm.to/files/videos/ot_3_640.mp4' width='640' height='480'></video></p>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="poster.jpg" controls="controls" preload="none"></p>
+
+<pre><code>&lt;!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --&gt;
+&lt;source type="video/mp4" src="http://ft.vm.to/files/videos/ot_3_640.mp4" /&gt;
+&lt;!-- WebM/VP8 for Firefox4, Opera, and Chrome --&gt;
+&lt;source type="video/webm" src="http://ft.vm.to/files/videos/ot_3_640.mp4" /&gt;
+&lt;!-- Ogg/Vorbis for older Firefox and Opera versions --&gt;
+&lt;source type="video/ogg" src="http://ft.vm.to/files/videos/ot_3_640.mp4" /&gt;
+&lt;!-- Optional: Add subtitles for each language --&gt;
+&lt;track kind="subtitles" src="subtitles.srt" srclang="en" /&gt;
+&lt;!-- Optional: Add chapters --&gt;
+&lt;track kind="chapters" src="chapters.srt" srclang="en" /&gt;
+&lt;!-- Flash fallback for non-HTML5 browsers without JavaScript --&gt;
+&lt;object width="640" height="480" type="application/x-shockwave-flash" data="flashmediaelement.swf"&gt;
+    &lt;param name="movie" value="flashmediaelement.swf" /&gt;
+    &lt;param name="flashvars" value="controls=true&amp;file=http://ft.vm.to/files/videos/ot_3_640.mp4" /&gt;
+    &lt;!-- Image as a last resort --&gt;
+    &lt;img src="myvideo.jpg" width="320" height="240" title="No video playback capabilities" /&gt;
+&lt;/object&gt;
+</code></pre>
+
+<p></video></p>
 
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
 </script>
-
-
-<p><a href="http://ft.vm.to/files/videos/ot_3_640.mp4">Download</a></p>
 
 
 
