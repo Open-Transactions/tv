@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: ChaiScript | Open Transactions TV 14]]></title>
+  <title><![CDATA[Category: ChaiScript | Open Transactions TV 15]]></title>
   <link href="http://Open-Transactions.github.io/tv/blog/categories/chaiscript/atom.xml" rel="self"/>
   <link href="http://Open-Transactions.github.io/tv/"/>
-  <updated>2013-06-13T21:17:50-05:00</updated>
+  <updated>2013-06-13T21:21:20-05:00</updated>
   <id>http://Open-Transactions.github.io/tv/</id>
   <author>
     <name><![CDATA[Fellow Traveler]]></name>
@@ -18,7 +18,7 @@
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-7-moneychanger-gui-basket-currencies/"/>
     <updated>2012-07-22T02:26:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-7-moneychanger-gui-basket-currencies</id>
-    <content type="html"><![CDATA[<p><video width="640" height="480" poster="/tv/images/ot-poster.jpg" controls="controls" preload="none"><!-- Flash fallback for non-HTML5 browsers without JavaScript --><object width="640" height="480" type="application/x-shockwave-flash" data="/tv/javascripts/mediaelement/flashmediaelement.swf"><param name="movie" value="/tv/javascripts/mediaelement/flashmediaelement.swf" /><param name="flashvars" value="controls=true&file=http://ft.vm.to/files/videos/ot_7_640.mp4">http://ft.vm.to/files/videos/ot_7_640.mp4</a>" /><!-- Image as a last resort --><img src="/images/ot-poster.jpg" width="640" height="480" title="No video playback capabilities" /></object></video>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="/tv/images/ot-poster.jpg" controls="controls" preload="none"><!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --><source type="video/mp4" src="http://ft.vm.to/files/videos/ot_7_640.mp4">http://ft.vm.to/files/videos/ot_7_640.mp4</a>" /><!-- Flash fallback for non-HTML5 browsers without JavaScript --><object width="640" height="480" type="application/x-shockwave-flash" data="/tv/javascripts/mediaelement/flashmediaelement.swf"><param name="movie" value="/tv/javascripts/mediaelement/flashmediaelement.swf" /><param name="flashvars" value="controls=true&file=http://ft.vm.to/files/videos/ot_7_640.mp4">http://ft.vm.to/files/videos/ot_7_640.mp4</a>" /><!-- Image as a last resort --><img src="/images/ot-poster.jpg" width="640" height="480" title="No video playback capabilities" /></object></video>
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
@@ -32,7 +32,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-6-opentxs-cli-misc-tips-and-tricks/"/>
     <updated>2012-07-22T02:25:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-6-opentxs-cli-misc-tips-and-tricks</id>
-    <content type="html"><![CDATA[<p><video width="640" height="480" poster="/tv/images/ot-poster.jpg" controls="controls" preload="none"><!-- Flash fallback for non-HTML5 browsers without JavaScript --><object width="640" height="480" type="application/x-shockwave-flash" data="/tv/javascripts/mediaelement/flashmediaelement.swf"><param name="movie" value="/tv/javascripts/mediaelement/flashmediaelement.swf" /><param name="flashvars" value="controls=true&file=http://ft.vm.to/files/videos/ot_6_640.mp4">http://ft.vm.to/files/videos/ot_6_640.mp4</a>" /><!-- Image as a last resort --><img src="/images/ot-poster.jpg" width="640" height="480" title="No video playback capabilities" /></object></video>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="/tv/images/ot-poster.jpg" controls="controls" preload="none"><!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --><source type="video/mp4" src="http://ft.vm.to/files/videos/ot_6_640.mp4">http://ft.vm.to/files/videos/ot_6_640.mp4</a>" /><!-- Flash fallback for non-HTML5 browsers without JavaScript --><object width="640" height="480" type="application/x-shockwave-flash" data="/tv/javascripts/mediaelement/flashmediaelement.swf"><param name="movie" value="/tv/javascripts/mediaelement/flashmediaelement.swf" /><param name="flashvars" value="controls=true&file=http://ft.vm.to/files/videos/ot_6_640.mp4">http://ft.vm.to/files/videos/ot_6_640.mp4</a>" /><!-- Image as a last resort --><img src="/images/ot-poster.jpg" width="640" height="480" title="No video playback capabilities" /></object></video>
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
@@ -46,7 +46,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-5-opentxs-cli-writing-and-depositing-cheques/"/>
     <updated>2012-07-22T02:25:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-5-opentxs-cli-writing-and-depositing-cheques</id>
-    <content type="html"><![CDATA[<p><video width="640" height="480" poster="/tv/images/ot-poster.jpg" controls="controls" preload="none"><!-- Flash fallback for non-HTML5 browsers without JavaScript --><object width="640" height="480" type="application/x-shockwave-flash" data="/tv/javascripts/mediaelement/flashmediaelement.swf"><param name="movie" value="/tv/javascripts/mediaelement/flashmediaelement.swf" /><param name="flashvars" value="controls=true&file=http://ft.vm.to/files/videos/ot_5_640.mp4">http://ft.vm.to/files/videos/ot_5_640.mp4</a>" /><!-- Image as a last resort --><img src="/images/ot-poster.jpg" width="640" height="480" title="No video playback capabilities" /></object></video>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="/tv/images/ot-poster.jpg" controls="controls" preload="none"><!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --><source type="video/mp4" src="http://ft.vm.to/files/videos/ot_5_640.mp4">http://ft.vm.to/files/videos/ot_5_640.mp4</a>" /><!-- Flash fallback for non-HTML5 browsers without JavaScript --><object width="640" height="480" type="application/x-shockwave-flash" data="/tv/javascripts/mediaelement/flashmediaelement.swf"><param name="movie" value="/tv/javascripts/mediaelement/flashmediaelement.swf" /><param name="flashvars" value="controls=true&file=http://ft.vm.to/files/videos/ot_5_640.mp4">http://ft.vm.to/files/videos/ot_5_640.mp4</a>" /><!-- Image as a last resort --><img src="/images/ot-poster.jpg" width="640" height="480" title="No video playback capabilities" /></object></video>
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
@@ -60,7 +60,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-4-opentxs-cli-withdrawing-and-depositing-cash/"/>
     <updated>2012-07-22T02:25:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/22/open-transactions-number-4-opentxs-cli-withdrawing-and-depositing-cash</id>
-    <content type="html"><![CDATA[<p><video width="640" height="480" poster="/tv/images/ot-poster.jpg" controls="controls" preload="none"><!-- Flash fallback for non-HTML5 browsers without JavaScript --><object width="640" height="480" type="application/x-shockwave-flash" data="/tv/javascripts/mediaelement/flashmediaelement.swf"><param name="movie" value="/tv/javascripts/mediaelement/flashmediaelement.swf" /><param name="flashvars" value="controls=true&file=http://ft.vm.to/files/videos/ot_4_640.mp4">http://ft.vm.to/files/videos/ot_4_640.mp4</a>" /><!-- Image as a last resort --><img src="/images/ot-poster.jpg" width="640" height="480" title="No video playback capabilities" /></object></video>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="/tv/images/ot-poster.jpg" controls="controls" preload="none"><!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --><source type="video/mp4" src="http://ft.vm.to/files/videos/ot_4_640.mp4">http://ft.vm.to/files/videos/ot_4_640.mp4</a>" /><!-- Flash fallback for non-HTML5 browsers without JavaScript --><object width="640" height="480" type="application/x-shockwave-flash" data="/tv/javascripts/mediaelement/flashmediaelement.swf"><param name="movie" value="/tv/javascripts/mediaelement/flashmediaelement.swf" /><param name="flashvars" value="controls=true&file=http://ft.vm.to/files/videos/ot_4_640.mp4">http://ft.vm.to/files/videos/ot_4_640.mp4</a>" /><!-- Image as a last resort --><img src="/images/ot-poster.jpg" width="640" height="480" title="No video playback capabilities" /></object></video>
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
@@ -74,7 +74,7 @@ jQuery('video,audio').mediaelementplayer(/* Options */);
     <link href="http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-1-cli-intro-and-ot-data-folders-and-the-ot-script-environment/"/>
     <updated>2012-07-14T15:46:00-05:00</updated>
     <id>http://Open-Transactions.github.io/tv/blog/2012/07/14/open-transactions-opentxs-1-cli-intro-and-ot-data-folders-and-the-ot-script-environment</id>
-    <content type="html"><![CDATA[<p><video width="640" height="480" poster="/tv/images/ot-poster.jpg" controls="controls" preload="none"><!-- Flash fallback for non-HTML5 browsers without JavaScript --><object width="640" height="480" type="application/x-shockwave-flash" data="/tv/javascripts/mediaelement/flashmediaelement.swf"><param name="movie" value="/tv/javascripts/mediaelement/flashmediaelement.swf" /><param name="flashvars" value="controls=true&file=http://ft.vm.to/files/videos/ot_1_640.mp4">http://ft.vm.to/files/videos/ot_1_640.mp4</a>" /><!-- Image as a last resort --><img src="/images/ot-poster.jpg" width="640" height="480" title="No video playback capabilities" /></object></video>
+    <content type="html"><![CDATA[<p><video width="640" height="480" poster="/tv/images/ot-poster.jpg" controls="controls" preload="none"><!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 --><source type="video/mp4" src="http://ft.vm.to/files/videos/ot_1_640.mp4">http://ft.vm.to/files/videos/ot_1_640.mp4</a>" /><!-- Flash fallback for non-HTML5 browsers without JavaScript --><object width="640" height="480" type="application/x-shockwave-flash" data="/tv/javascripts/mediaelement/flashmediaelement.swf"><param name="movie" value="/tv/javascripts/mediaelement/flashmediaelement.swf" /><param name="flashvars" value="controls=true&file=http://ft.vm.to/files/videos/ot_1_640.mp4">http://ft.vm.to/files/videos/ot_1_640.mp4</a>" /><!-- Image as a last resort --><img src="/images/ot-poster.jpg" width="640" height="480" title="No video playback capabilities" /></object></video>
 <script>
 // using jQuery
 jQuery('video,audio').mediaelementplayer(/* Options */);
